@@ -1,0 +1,9 @@
+c:\users\baron\source\repos\CardChallenge\CardChallenge\bin\Debug\netstandard2.0\CardChallenge.deps.json
+c:\users\baron\source\repos\CardChallenge\CardChallenge\bin\Debug\netstandard2.0\CardChallenge.dll
+c:\users\baron\source\repos\CardChallenge\CardChallenge\bin\Debug\netstandard2.0\CardChallenge.pdb
+c:\users\baron\source\repos\CardChallenge\CardChallenge\obj\Debug\netstandard2.0\CardChallenge.csprojAssemblyReference.cache
+c:\users\baron\source\repos\CardChallenge\CardChallenge\obj\Debug\netstandard2.0\CardChallenge.csproj.CoreCompileInputs.cache
+c:\users\baron\source\repos\CardChallenge\CardChallenge\obj\Debug\netstandard2.0\CardChallenge.AssemblyInfoInputs.cache
+c:\users\baron\source\repos\CardChallenge\CardChallenge\obj\Debug\netstandard2.0\CardChallenge.AssemblyInfo.cs
+c:\users\baron\source\repos\CardChallenge\CardChallenge\obj\Debug\netstandard2.0\CardChallenge.dll
+c:\users\baron\source\repos\CardChallenge\CardChallenge\obj\Debug\netstandard2.0\CardChallenge.pdb
